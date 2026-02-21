@@ -1,7 +1,12 @@
-# Wheat Seeds Dataset – Exploratory Data Analysis (EDA)
+# Wheat Seeds Dataset – Exploratory Data Analysis and CNN Classification
 
 ## Project Overview
-This repository contains an Exploratory Data Analysis (EDA) of a wheat seed image dataset. The goal is to analyze class distribution, image samples, and image size characteristics to support supervised deep learning models.
+This repository contains two major components of a course project on wheat seed image classification.
+Task 1 focuses on Exploratory Data Analysis (EDA) and related work, while Task 2 focuses on supervised learning using pre-trained Convolutional Neural Networks (CNNs).
+
+## Task 1: Exploratory Data Analysis (EDA)
+# Objective
+The objective of Task 1 is to analyze and understand the wheat seed image dataset before applying deep learning models.
 
 ## Contents
 - EDA notebook (Colab Notebook)
@@ -73,3 +78,7 @@ p-value < 0.05 indicates a statistically significant difference.
 - All experiments were run in Google Colab
 - Dataset stored in Google Drive
 - Results saved for reproducibility and fair comparison
+
+## Course
+CSE366 – Artificial Intelligence  
+Assignment: Supervised Pre-trained CNN Models
